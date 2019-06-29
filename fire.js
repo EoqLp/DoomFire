@@ -1,8 +1,8 @@
 //https://youtu.be/fxm8cadCqbs?t=571
 
 const firePixels = [];
-const fireWidth = 2;
-const fireHeight = 3;
+const fireWidth = 10;
+const fireHeight = 10;
 
 function init(){
     createED();
@@ -30,7 +30,7 @@ function renderFire(){
         for (let column = 0; column < fireWidth; column++){
             const pixelIndex = column + (fireWidth * row)
             html += '<td>'
-            html += pixelIndex
+            html += `<div class="pixel-index">${pixelIndex}</div>`
             html += '</td>'
         }
 
