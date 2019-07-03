@@ -1,6 +1,3 @@
-//https://youtu.be/fxm8cadCqbs?t=659
-
-
 const firePixels = [];
 const fireWidth = 150;
 const fireHeight = 40;
