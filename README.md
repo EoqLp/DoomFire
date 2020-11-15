@@ -28,10 +28,10 @@ Projeto desenvolvido durante a Disciplina de Lógica para Computação no perío
 
 ## ⚙️ Funcionalidades
 
-- <h5>✔️</h5> Os usuários tem acesso ao aplicativo web, onde podem:
-  - <h5>✔️</h5> Construir a tabela verdade.
-  - <h5>✔️</h5> Gerar Fórmula Normal Disjuntiva (FND).
-  - <h5>✔️</h5> Gerar Fórmula Normal Conjuntiva (FNC).
+- Os usuários tem acesso ao aplicativo web, onde podem:
+   <h5>✔️ Construir a tabela verdade.</h5>
+   <h5>✔️  Gerar Fórmula Normal Disjuntiva (FND).</h5>
+   <h5>✔️ Gerar Fórmula Normal Conjuntiva (FNC).</h5>
 
 ---
 
