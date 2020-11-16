@@ -25,7 +25,7 @@ Tabela de conteúdos
 
 Projeto proposto durante a Disciplina de Lógica para Computação no período de 2020.5 oferecida pela Universidade Federal Rural do Rio de Janeiro.
 
-O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a <b>Fórmula Normal Conjuntiva e Disjuntiva</b> em relação à fórmula original.
+O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.
 ---
 
 ## ⚙️ Funcionalidades
