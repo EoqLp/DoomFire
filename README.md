@@ -23,9 +23,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-Projeto proposto durante a Disciplina de Lógica para Computação no período de 2020.5 oferecida pela Universidade Federal Rural do Rio de Janeiro.
-
-<h3>O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.</h3>
+Projeto proposto durante a Disciplina de Lógica para Computação no período de 2020.5 oferecida pela Universidade Federal Rural do Rio de Janeiro. <br><br>O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.
 
 ---
 
@@ -35,6 +33,11 @@ Projeto proposto durante a Disciplina de Lógica para Computação no período d
    <h5>✔️ Construir a tabela verdade.</h5>
    <h5>✔️  Gerar Fórmula Normal Disjuntiva (FND).</h5>
    <h5>✔️ Gerar Fórmula Normal Conjuntiva (FNC).</h5>
+
+---
+
+## ⌨️ Como usar?
+- Basta digitar a expressão lógica
 
 ---
 
