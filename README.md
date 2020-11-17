@@ -44,9 +44,8 @@ git checkout integracao_tabela_verdade
 ## ⚙️ Funcionalidades
 
 - Os usuários tem acesso ao aplicativo web, onde podem:
-   <h5>✔️ Construir a tabela verdade.</h5>
-   <h5>✔️  Gerar Fórmula Normal Disjuntiva (FND).</h5>
-   <h5>✔️ Gerar Fórmula Normal Conjuntiva (FNC).</h5>
+   -- Construir a tabela verdade.
+   -- Gerar Fórmula Normal Disjuntiva (FND) e Fórmula Normal Conjuntiva (FNC).
 
 ---
 
