@@ -12,6 +12,7 @@ Tabela de conteúdos
    * [Como executar](#%EF%B8%8F-como-executar)
    * [Como usar](#%EF%B8%8F-como-usar)
    * [Contribuidores](#-contribuidores)
+   * [Agradecimentos](#-agradecimentos)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
    * [Licença](#user-content--licença)
 <!--te-->
