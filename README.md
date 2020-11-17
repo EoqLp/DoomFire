@@ -20,6 +20,7 @@ Tabela de conteúdos
    * [Licença](#user-content--licença)
 <!--te-->
 
+---
 
 ## 💻 Sobre o projeto
 
@@ -86,6 +87,8 @@ Operadores:
     <td align="center"></td>   
   </tr>
 </table>
+
+---
 
 ## 💪 Como contribuir no projeto
 
