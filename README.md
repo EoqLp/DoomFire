@@ -5,10 +5,6 @@
     Projeto proposto durante a Disciplina de Lógica para Computação no período de 2020.5 oferecida pela Universidade Federal Rural do Rio de Janeiro.
 </h3>
 
-<h4 align="center"> 
-	⏳  Em construção ⌛️
-</h4>
-
 Tabela de conteúdos
 =================
 <!--ts-->
@@ -89,7 +85,7 @@ Operadores:
 </table>
 
 ---
-## 👏💻 Agradecimentos
+## 👏 Agradecimentos
 
 <table>
   <tr>
