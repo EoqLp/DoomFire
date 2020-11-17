@@ -39,8 +39,7 @@ git clone https://github.com/oliveiraviniciuss/trab-logica
 `
 
 2. Na pasta do projeto, mude a branch para integracao_tabela_verdade
-<br>
-`
+<br>`
 git checkout integracao_tabela_verdade
 `
 
