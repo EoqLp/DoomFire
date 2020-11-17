@@ -13,7 +13,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Como executar](#-como-executar)
+   * [Como executar](#%EF%B8%8F-como-executar)
    * [Como usar](#-como-usar)
    * [Contribuidores](#-contribuidores)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
