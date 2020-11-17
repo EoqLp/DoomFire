@@ -2,7 +2,7 @@
      <a href="#" > Geração de Fórmulas FND/FNC </a>
 </h1>
 <h3 align="center">
-    Projeto feito para a Disciplina de Lógica para Computação da Universidade Federal Rural do Rio de Janeiro
+    Projeto proposto durante a Disciplina de Lógica para Computação no período de 2020.5 oferecida pela Universidade Federal Rural do Rio de Janeiro.
 </h3>
 
 <h4 align="center"> 
@@ -23,9 +23,15 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-Projeto proposto durante a Disciplina de Lógica para Computação no período de 2020.5 oferecida pela Universidade Federal Rural do Rio de Janeiro. <br><br>O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.
+O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.
 
 ---
+
+## ▶️ Como executar
+
+```shell
+git clone https://github.com/oliveiraviniciuss/trab-logica
+```
 
 ## ⚙️ Funcionalidades
 
