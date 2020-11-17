@@ -13,8 +13,8 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-funcionalidades)
-   * [Apresentação](#-apresentação)
+   * [Como executar](#-como-executar)
+   * [Como usar](#-como-usar)
    * [Contribuidores](#-contribuidores)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
    * [Licença](#user-content--licença)
