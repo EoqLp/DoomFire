@@ -58,13 +58,9 @@ Regras:
 - [x] É necessário colocar parênteses para definir prioridades:
   - [x] A^BvC - ERRADO
   - [x] (A^B)vC - CERTO
-
+  
 Operadores:
-- [x]AND: ^
-- [x]OR: v
-- [x]IMPLIES: ->
-- [x]IF AND ONLY IF: <->
-- [x]NOT: ~
+- [x] OR: v
 
 ---
 
