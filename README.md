@@ -89,6 +89,19 @@ Operadores:
 </table>
 
 ---
+## 👏💻 Agradecimentos
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/RamonMachado"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19560225?s=400&u=542ae0b0efdac0586a0687d7494830e15792b1e8&v=4" width="100px;" alt=""/><br /><sub><b>Ramon Machado</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/RafaelLDSX"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/19434605?s=400&u=d7263ba4290052d14259799a16b3b5f3f9120239&v=4" width="100px;" alt=""/><br /><sub><b>Rafael Lemos</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MarcioMed07"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/19434598?s=400&u=95d1f8adf29dbbe1bd350392d1c376cb64985c07&v=4" width="100px;" alt=""/><br /><sub><b>Marcio Medeiros</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/D8989"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/20309537?s=400&u=f61691f100e912121ad9f651b4fe61e732046b1c&v=4" width="100px;" alt=""/><br /><sub><b>Daniel Moreira</b></sub></a><br /></td>   
+  </tr>
+ 
+</table>
+
+---
 
 ## 💪 Como contribuir no projeto
 
