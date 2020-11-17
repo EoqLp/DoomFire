@@ -34,12 +34,13 @@ Os detalhes da implementação da geração da tabela verdade a partir de uma da
 ## ▶️ Como executar
 
 1. Clone o repositório para sua máquina
-`shell
+<br>`
 git clone https://github.com/oliveiraviniciuss/trab-logica
 `
 
 2. Na pasta do projeto, mude a branch para integracao_tabela_verdade
-`shell
+<br>
+`
 git checkout integracao_tabela_verdade
 `
 
