@@ -48,14 +48,25 @@ git checkout integracao_tabela_verdade
 3. Execute o arquivo "index.html"
 
 
-## ⌨️ Como usar?
-- Basta digitar a expressão lógica
+## ⌨️ Como usar
+Digite a expressão lógica e clique em "Gerar Tabela Verdade".
+
+Regras:
+- [x] Variáveis precisam ser maiúsculas.
+- [x] Variáveis podem ter nomes de A a Z, com a exceção da letra V (Símbolo representativo do operador “OR”).
+- [x] A prioridade de interpretação será sempre da direita para a esquerda.
+- [x] É necessário colocar parênteses para definir prioridades:
+  - [x] A^BvC - ERRADO
+  - [x] (A^B)vC - CERTO
+
+Operadores:
+- [x]AND: ^
+- [x]OR: v
+- [x]IMPLIES: ->
+- [x]IF AND ONLY IF: <->
+- [x]NOT: ~
 
 ---
-
-## 🎥 Apresentação
-
----  
 
 ## 👨‍💻 Contribuidores
 
