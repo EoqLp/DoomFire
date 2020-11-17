@@ -47,6 +47,7 @@ git checkout integracao_tabela_verdade
 
 3. Execute o arquivo "index.html"
 
+---
 
 ## ⌨️ Como usar
 Digite a expressão lógica e clique em "Gerar Tabela Verdade".
