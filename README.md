@@ -60,7 +60,12 @@ Regras:
   - [x] (A^B)vC - CERTO
   
 Operadores:
+- [x] AND: ^
 - [x] OR: v
+- [x] IMPLIES: ->
+- [x] IF AND ONLY IF: <->
+- [x] NOT: ~
+
 
 ---
 
