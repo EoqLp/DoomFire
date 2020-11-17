@@ -23,7 +23,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.<br><br>
+O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.<br>
 
 Os detalhes da implementação da geração da tabela verdade a partir de uma dada string de expressão lógica pelo usuário podem ser encontrados <a href="https://github.com/RamonMachado/truthTableGenerator">aqui</a>
 
