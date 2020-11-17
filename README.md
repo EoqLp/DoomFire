@@ -29,9 +29,17 @@ O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmu
 
 ## ▶️ Como executar
 
+1. Clone o repositório para sua máquina
 ```shell
 git clone https://github.com/oliveiraviniciuss/trab-logica
 ```
+
+2. Na pasta do projeto, mude a branch para integracao_tabela_verdade
+```shell
+git checkout integracao_tabela_verdade
+```
+
+3. Execute o arquivo "index.html"
 
 ## ⚙️ Funcionalidades
 
