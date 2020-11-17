@@ -23,7 +23,10 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.
+O objetivo do projeto é construir, a partir de uma tabela verdade de uma fórmula, uma ferramenta que apresente a Fórmula Normal Conjuntiva e Disjuntiva em relação à fórmula original.<br><br>
+- [x] Os usuários tem acesso ao aplicativo web, onde podem:
+   - [x] Construir a tabela verdade.
+   - [x] Gerar Fórmula Normal Disjuntiva (FND) e Fórmula Normal Conjuntiva (FNC).
 
 ---
 
@@ -41,13 +44,6 @@ git checkout integracao_tabela_verdade
 
 3. Execute o arquivo "index.html"
 
-## ⚙️ Funcionalidades
-
-- [x] Os usuários tem acesso ao aplicativo web, onde podem:
-   - [x] Construir a tabela verdade.
-   - [x] Gerar Fórmula Normal Disjuntiva (FND) e Fórmula Normal Conjuntiva (FNC).
-
----
 
 ## ⌨️ Como usar?
 - Basta digitar a expressão lógica
